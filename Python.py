@@ -1,8 +1,3 @@
-# code = ""
-
-
-
-
 import os
 import time
 def _clrscr():
@@ -29,7 +24,7 @@ for line in arr:
             try:
                 time.sleep(float(line[-1]))
             except: 
-                print("Đã có lôi xảy ra khi biên dịch code function")
+                print("Đã có lỗi xảy ra khi biên dịch code function")
         
     else:
         print(line)
