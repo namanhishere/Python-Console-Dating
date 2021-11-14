@@ -4,6 +4,7 @@
 * Máy là máy chạy Windows (xem tại Lưu ý bước 4 ở mục 2)
 * Máy tính được cài Python 3.x trở lên (Phiên bản đang được sử dụng để dạy tại trường)
 * Phần mềm quay màn hình ( khuyên khích sử dụng OBS)
+* Tải code này về tại [đây](https://github.com/namanhishere/Python-Console-Dating/archive/refs/heads/main.zip)
 
 ### 2.Công đoạn chuẩn bị
 * Bước 1: Chuẩn bị nội dung, tâm tình, tâm sự mà bạn muốn thổ lộ  
